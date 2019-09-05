@@ -1,0 +1,123 @@
+
+.parentDiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main{
+   padding: 20px;
+}
+.hirepre{
+   
+        font-size: 38px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.54;
+        letter-spacing: normal;
+        color: #212121;
+      
+}
+
+.startaproject{
+    padding: 15px 35px;
+        font-size: 16px;
+        font-weight: 500;
+      
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1;
+        letter-spacing: normal;
+        color: #ffffff;
+        
+            border-radius: 4px;
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+            background-color: #f16e20;
+            outline: none;
+            box-shadow: none;
+            border: 1px solid #f16e20;
+          
+}
+
+.contactus{
+  
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1;
+        letter-spacing: normal;
+        color: #1b1b1b;
+      
+            
+            border-radius: 4px;
+            box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+            background-color: #ffffff;
+
+      outline: none;
+      box-shadow: #ffffff;
+      border: 1px solid #ffffff;
+      margin-left: 10px;
+      padding: 15px 50px;
+}
+.p { 
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #8b8b8b;
+    padding: 60px 7px;
+  }
+
+  .noun{
+    
+    width: 103px;
+    height: 50px;
+        object-fit: contain;
+        
+      
+
+  }
+
+  .group {
+    width: 89px;
+    height: 49px;
+    object-fit: contain;
+   
+  
+  }
+
+  .health {
+ 
+    width: 146px;
+    height: 49px;
+    object-fit: contain;
+   
+  }
+
+
+
+  .group7 {
+    width: 500px;
+    height: 433px;
+    object-fit: contain;
+  }
+
+  
+
+  .img1{
+      margin-left: 50px;
+  }
+
+
+ .imgs{
+    display: flex;
+    justify-content: space-evenly;
+    
+  }
+  .groupaibased{
+      text-align: center;
+  }

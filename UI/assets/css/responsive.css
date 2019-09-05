@@ -1,0 +1,25 @@
+
+  @media screen and(max-width: 1400px){
+    .parentDiv .head .main{
+        font-size: 60px;
+    }
+
+}
+
+@media (max-width: 768px) { 
+    .parentDiv {
+       
+        margin: 20px auto;
+        display: block;
+    
+    }
+    .img1{
+        
+        align-items: center;
+    }
+     .parentDiv .img1 .group7{
+         width: 100%;
+         text-align: center;
+     }
+    
+ }
